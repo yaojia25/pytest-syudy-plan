@@ -8,4 +8,4 @@ class Testlogin():
 
 
 if __name__ == '__main__':
-    pytest.main()
+    pytest.main(["-vs", "--alluredir=./report/allure_raw"])
