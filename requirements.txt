@@ -1,0 +1,6 @@
+pytest
+pytest-html
+pytest-ordering
+pytest-rerunfailures
+allure-pytest
+uiautomator2
